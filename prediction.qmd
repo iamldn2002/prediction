@@ -1,5 +1,5 @@
 ---
-title: "Prediction"
+title: "Forecasting Quarterback Performance: A Statistical Analysis of Passing EPA in the NFL"
 format: pdf
 author: Dingning Li
 thanks: "Code and data are available at: https://github.com/iamldn2002/prediction"
